@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Himajo Outdoor Rent
 
 Repositori monorepo (Vite + Express + MySQL) untuk Himajo Outdoor Rent. Frontend React SPA dan backend Express berjalan pada port yang sama sehingga proses pengembangan dan deployment lebih sederhana. Dokumen ini menjelaskan seluruh langkah dari persiapan sampai aplikasi siap produksi dalam **bahasa Indonesia**.
@@ -205,3 +206,7 @@ fix_database.sql  → Skrip inisialisasi database
 
 ---
 Untuk panduan end-user (cara memakai situs), lihat `USER_MANUAL.md`. Jika ada pertanyaan teknis tambahan, silakan hubungi tim pengembang.
+=======
+# Himajo-Outdoor-Rent
+Repositori monorepo (Vite + Express + MySQL) untuk Himajo Outdoor Rent. 
+>>>>>>> 7ded2c8734db3c268e86391f1ea8881ab6222fe2
